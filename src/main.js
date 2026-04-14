@@ -8,7 +8,7 @@ import {
   clearGallery,
   showLoader,
   hideLoader,
-} from './js/render-function.js';
+} from './js/render-functions.js';
 
 const formEl = document.querySelector('.js-search-form');
 const inputEl = document.querySelector('.js-search-input');
